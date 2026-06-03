@@ -1,4 +1,6 @@
 # git guard
+Do you ever push files you didn't want to push? If yes, git guard fix's that! Just run `cargo run` in the same folder as your project and it reads your files and adds files to your `.gitignore` for you!
+## How to install
 **for Windows**
 ### 1.
  install Rust
