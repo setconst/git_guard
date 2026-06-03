@@ -9,11 +9,7 @@ cd C:\users\%username%\Documents\GitHub\git_guard
 ### 4.
 run `cargo run`
 
----
-
 ***
-
-___
 
 **for Linux and MacOS**
 ### 1.
