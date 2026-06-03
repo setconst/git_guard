@@ -1,0 +1,8 @@
+{
+  "Name" : "git_guard",
+  "runs-on" : "ubuntu-latest",
+  "code" : "Rust",
+  "cargo.toml" : "yes",
+  "main-builder" : "setconst",
+  "posted-on" : "GitHub"
+}
