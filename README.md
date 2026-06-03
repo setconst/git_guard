@@ -1,4 +1,4 @@
-# git_guard
+# git guard
 **for Windows**
 ### 1.
  install Rust
@@ -9,7 +9,7 @@ cd C:\users\%username%\Documents\GitHub\git_guard
 ### 4.
 run `cargo run`
 
-# git_guard extra
+# git guard extra
 
 **for Linux and MacOS**
 ### 1.
